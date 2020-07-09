@@ -12,3 +12,8 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+.bg-image{
+  background-repeat: no-repeat;
+  background: center center;
+  background-size: cover;
+}
